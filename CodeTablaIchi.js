@@ -1,0 +1,1 @@
+function mostrarOcultar(objeto) {var div = document.getElementsByClassName(objeto)[0]; div.style.display = div.style.display == "none" ? "block" : "none";}
